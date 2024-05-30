@@ -1,1 +1,11 @@
 ini file 3
+
+
+NOTES:
+1. buat sebuah branch baru dengan nama anda,
+2. didalam repository baru, buat file dengan nama -> resolusi-budi.txt 
+isinya 
+nama: ..., resolusi: ...
+3. commit dan push branch yg sudah dibuat masing" ,
+
+4. edit file didalam file1.txt secara random (optional)
